@@ -1,0 +1,9 @@
+{
+    "schemaVersion": "0",
+    "name": "angular-tour-of-heroes",
+    "rootDir": "./src",
+    "testEnvironment": "jsdom",
+    "testLocationStrategy": "relativeToProjectRoot",
+    "testLocationFolder": "./ponicode",
+    "testNamePattern": "{name}.test.{ext}"
+}
